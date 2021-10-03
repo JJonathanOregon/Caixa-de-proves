@@ -1,7 +1,7 @@
-# Introducció
+## Introducció
 
-# Descripció
+## Descripció
 
-# Procediments
+## Procediments
 
-# LLicència
+## LLicència
